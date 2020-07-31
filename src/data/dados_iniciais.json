@@ -1,89 +1,92 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      
+      "titulo": "Midori Games",      
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Canal da Midori",
+        "url": "https://www.youtube.com/Midorifukami"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Aprendendo Japonês | Learn Japanese To Survive! Hiragana Battle | Gameplay #1",
+          "url": "https://www.youtube.com/watch?v=EKRLGuvLHfY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Reformando casas | House Flipper Gameplay #1",
+          "url": "https://www.youtube.com/watch?v=bI8Ow6CObYM"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Como é a vida de quem faz vídeos? | Youtuber Life Gameplay",
+          "url": "https://www.youtube.com/watch?v=uat0wx-ek-Q&t"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Festival do ovo! Participação especial SimForce | Stardew Valley Gameplay",
+          "url": "https://www.youtube.com/watch?v=0WxoAvlMRi4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Explodindo e morrendo | Bomb Bots Arena | Jogo gratuito na Steam | Gameplay com Miyu4Gamer",
+          "url": "https://www.youtube.com/watch?v=MC9Y-sZAlJg&t"
         }      
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "The Sims",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Playlist The Sims",
+        "url": "https://www.youtube.com/playlist?list=PLs3yd28pfby5i3vZM_6TzBBu32TTSlCwV"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Começando minha família! | The Sims 4 Gameplay #1",
+          "url": "https://www.youtube.com/watch?v=J2KYsI4aMac"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Construindo minha casa! | The Sims 4 Gameplay #2",
+          "url": "https://www.youtube.com/watch?v=CQiU7s1fJ4c"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Primeiro dia no trabalho e treinando pets | The Sims 4 Gameplay #3",
+          "url": "https://www.youtube.com/watch?v=zi8H1QtFkCM"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Será que sou sociável? | Mais treino dos pets | The Sims 4 Gameplay #4",
+          "url": "https://www.youtube.com/watch?v=NcU2u8dzFcw"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Pedi em namoro! Será que fui aceita? | The Sims 4 Gameplay #5",
+          "url": "https://www.youtube.com/watch?v=KhZPLG-e7SA"
+        }, 
+        {
+          "titulo": "Metas financeiras? | The Sims 4 Gameplay #6",
+          "url": "https://www.youtube.com/watch?v=cUiG0a-vVW8"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Sim Force",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Canal Sim Force",
+        "url": "https://www.youtube.com/canalsimforce"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Automobilista 2 - Review",
+          "url": "https://www.youtube.com/watch?v=cQ1r56DSXd4"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Nox Krom Kumite Arcade Fighting Stick - depois de 3 meses de uso",
+          "url": "https://www.youtube.com/watch?v=BrKBXo-N_S0"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Horizon Chase Coop",
+          "url": "https://www.youtube.com/watch?v=zJpRT-fT_NM"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Jogo virtual, exercício real.",
+          "url": "https://www.youtube.com/watch?v=bmprnYulJeA"
         }
       ]
     },
